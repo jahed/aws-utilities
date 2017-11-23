@@ -28,8 +28,10 @@
       "json"
     ]
   },
+  "dependencies": {
+    "@types/aws-lambda": "0.0.21"
+  },
   "devDependencies": {
-    "@types/aws-lambda": "0.0.21",
     "@types/jest": "21.1.7",
     "jest": "21.2.1",
     "ts-jest": "21.2.3",
