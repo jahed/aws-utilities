@@ -2,10 +2,11 @@
   "name": "@jahed/aws-utilities",
   "version": "0.2.0",
   "main": "dist/index.js",
+  "types": "types/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "types"
   ],
-  "types": "dist/index.d.ts",
   "author": "Jahed Ahmed",
   "license": "MIT",
   "scripts": {
